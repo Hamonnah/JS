@@ -1,7 +1,7 @@
 let str = 'Akademia108';
 
-function sortString() {
-    let newStr = str
+function sortString(txt) {
+    let newStr = txt
     .split('')
     .sort()
     .join('');
