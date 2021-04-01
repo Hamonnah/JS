@@ -1,7 +1,7 @@
 let str = 'Akademia108';
 
-function reverseString() {
-    let newStr = str
+function reverseString(txt) {
+    let newStr = txt
     .split('')
     .reverse()
     .join('');
