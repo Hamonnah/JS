@@ -23,10 +23,9 @@ const fetchData = () => {
             divElement.appendChild(pSurName);
             divElement.appendChild(pProfession);
             divElement.appendChild(pCompany);
-        
+
         });
-    }
-   
+}
 
 btnFetch.addEventListener('click', fetchData);
 
