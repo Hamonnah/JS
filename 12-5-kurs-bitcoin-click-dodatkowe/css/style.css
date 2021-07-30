@@ -1,3 +1,16 @@
+.buy-exange,
+.sell-exange {
+    display: inline-block;
+}
+
+#get-data {
+    height: 70px;
+    width: 200px;
+    font-size: 120%;
+    color: honeydew;
+    background-color: green;
+}
+
 .fa-arrow-up {
     color: green;
 }
